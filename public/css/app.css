@@ -10978,3 +10978,9 @@ section.user_info h1 {
   border-radius: 50%;
 }
 
+/* signup card*/
+
+.card {
+  margin-top: 20px;
+}
+
